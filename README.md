@@ -66,10 +66,18 @@ This project is open source and available under the MIT License.
 
 ---
 
-Feel free to contribute to this project by submitting pull requests or reporting issues!
+## 👤 Join Our Telegram Group!
+Join our Telegram group for more bot scripts and discussions:
+➡️ [Join Telegram Group](https://t.me/sam_xode)
+
+## 💌 Contact
+For questions or contributions, reach out via:
+- **GitHub**: [sam-xode](https://github.com/sam-xode)
+- **Twitter**: [@Sam_xode](https://twitter.com/Sam_xode)
+- **Telegram**: [sam_xode](https://t.me/sam_xode)
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/sam-xode">SamXode</a></sub> 
+  <sub>Made with ❤️ by <a href="https://twitter.com/Sam_xode">SamXode</a></sub> 
 </p>
