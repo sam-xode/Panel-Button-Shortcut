@@ -30,7 +30,7 @@ A stylish floating panel with shortcut buttons featuring frosted glass effects, 
 ### Steps
 1. Install Tampermonkey or another userscript manager
 2. Create a new script in the userscript manager
-3. Copy and paste the entire code from `panel-button-shortcut.js`
+3. Copy and paste the entire code from `-SamXode-- Panel Button Shortcut-1.0.user.js`
 4. Save the script
 
 ## 🎮 Usage
