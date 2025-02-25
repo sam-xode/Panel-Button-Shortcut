@@ -56,7 +56,7 @@ You can easily customize the panel by modifying the code:
 
 ## 🖼️ Screenshots
 
-[ ](https://arrow-wing-897.notion.site/image/attachment%3Ac75246d7-c601-47d8-a0d8-f452397b6f18%3Aimage.png?table=block&id=1a5c089c-b470-80ab-8018-d521589f14a7&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=570&userId=&cache=v2)
+[SS](https://arrow-wing-897.notion.site/image/attachment%3Ac75246d7-c601-47d8-a0d8-f452397b6f18%3Aimage.png?table=block&id=1a5c089c-b470-80ab-8018-d521589f14a7&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=570&userId=&cache=v2)
 
 
 
